@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="442635638390900"
+    token="4529383402731232651"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="5409" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="4827" />
+    <task
+        name="verifier"
+        duration="1341" />
+
+    <artifact
+        location="E:\deepak\whirlpool\whirlpool\whirlPool\build\outputs\apk\whirlPool-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="442635638390900"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\deepak\whirlpool\whirlpool\whirlPool\build\outputs\apk\whirlPool-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

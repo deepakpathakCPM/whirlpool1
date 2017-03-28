@@ -3,102 +3,120 @@
 
     <item
         is-multidex="false"
-        jar="E:\adt-bundle-windows-x86-20130717\adt-bundle-windows-x86-20130717\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\release\support-annotations-23.1.1_564d47629f30661d16b44da422d1562d1ce7f39b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.1.1_4beed2dfa26accf1c8532966c4c542471e27c720.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\deepak\whirlpool\whirlpool\whirlPool\libs\acra-4.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
-        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\release\acra-4.4.0_2c1262b4b42a9031050291a5a3b61ce97d9969cb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.1.1_e2a40333c3d0239b0fff33decb4d591958b93d12.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
-        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-23.1.1_4c114bf84f0ca197fb870459e12bc3e2fac08d7c.jar" />
+        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.1.1_4c114bf84f0ca197fb870459e12bc3e2fac08d7c.jar" />
     </item>
     <item
         is-multidex="false"
         jar="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\release\internal_impl-23.1.1_dbf0c9c3fdcbf630b0d572a80ab03cd176d0105c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.1.1_f5a9d7d5f361f514dbfa18045676d4b6b07fe403.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
-        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-6.5.87_6dd49bd3898699188944ff4b0a4b53a672ec8de5.jar" />
+        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_dbf0c9c3fdcbf630b0d572a80ab03cd176d0105c.jar" />
     </item>
     <item
         is-multidex="false"
         jar="E:\deepak\whirlpool\whirlpool\whirlPool\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
-        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\release\ksoap2-android-assembly-3.0.0-jar-with-dependencies_cb131242a20786c954dadf454241b86bbe534abb.jar" />
+        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.0.0-jar-with-dependencies_cb131242a20786c954dadf454241b86bbe534abb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_e2a40333c3d0239b0fff33decb4d591958b93d12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-6.5.87_6dd49bd3898699188944ff4b0a4b53a672ec8de5.jar" />
     </item>
     <item
         is-multidex="false"
         jar="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\release\com.android.support-design-23.1.1_702ab66237794cd4ada4af66dd7237a8b3ec0344.jar" />
+        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_702ab66237794cd4ada4af66dd7237a8b3ec0344.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_4beed2dfa26accf1c8532966c4c542471e27c720.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\deepak\whirlpool\whirlpool\whirlPool\libs\acra-4.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7864f0ac6c74d84e465aa5449fa14408b0a1418f">
+        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\debug\acra-4.4.0_2c1262b4b42a9031050291a5a3b61ce97d9969cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_f5a9d7d5f361f514dbfa18045676d4b6b07fe403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1fe998c24601c4125ac4024c469bd6bfef906321">
+        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\debug\instant-run-bootstrap_47330212db6eb54cc5cf491b5fcccf848e69e1bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3ca1186814252bb48fe76cff12724948f0a9dce9">
+        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\debug\instant-run_c214bb77dbeca96da04de4ef0257cca47e3f7255.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\adt-bundle-windows-x86-20130717\adt-bundle-windows-x86-20130717\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_564d47629f30661d16b44da422d1562d1ce7f39b.jar" />
     </item>
     <item
         is-multidex="false"
         jar="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\exploded-aar\com.github.ksoichiro\android-observablescrollview\1.6.0\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="d125b199a427e5cc8d4234f7d8673c9a27ef6336">
-        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\release\com.github.ksoichiro-android-observablescrollview-1.6.0_d0928a9da6a3687e667d360bdb36d81120910f4a.jar" />
+        <dex dex="E:\deepak\whirlpool\whirlpool\whirlPool\build\intermediates\pre-dexed\debug\com.github.ksoichiro-android-observablescrollview-1.6.0_d0928a9da6a3687e667d360bdb36d81120910f4a.jar" />
     </item>
 
 </items>
